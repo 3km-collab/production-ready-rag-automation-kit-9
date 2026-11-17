@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/production-ready-rag-automation-kit-9/sitemap.xml
